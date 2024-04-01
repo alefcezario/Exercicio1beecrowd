@@ -11,5 +11,6 @@ public class AreadoCirculo1 {
         System.out.printf("A=%.4f" ,area);
         System.out.println();
         scanner.close();
+        
     }
 }
